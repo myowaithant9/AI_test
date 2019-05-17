@@ -6,7 +6,7 @@ A system for checking the days of the week (eg. Sunday, Monday,...)
 
 ## loan.py
 
-A System for repay debts to investigate how loan goes when paying a fixed amount monthly after loan
+A System for repay debts to investigate how loan goes when paying a fixed amount monthly after loan.
 
 ## web_scrap.py
 

@@ -5,7 +5,7 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
 import re
 
-# Reference your chrome driver location of your PC
+# Please change chrome driver location for your PC
 driver = webdriver.Chrome('/Users/pc012/Documents/chromedriver')
 driver.set_window_size(1440,900)
 driver.get('http://www.lumine.ne.jp/ikebukuro/news/')
